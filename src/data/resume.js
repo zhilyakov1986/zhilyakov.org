@@ -66,7 +66,7 @@ export const resumeData = {
   projects: [
     {
       name: "Wild Quest",
-      description: "A fun and interactive game to guess animals based on visual clues and facts.",
+      description: "A fun and interactive game targeting 5-6 year old kids to guess animals based on visual clues and facts.",
       link: "https://wildquest.net",
       logo: wildQuestLogo,
     },
