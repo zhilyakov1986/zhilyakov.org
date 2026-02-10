@@ -32,7 +32,7 @@ function App() {
       </div>
 
       <footer className="mt-12 text-center text-slate-500 dark:text-slate-400 text-sm">
-        <p>© {new Date().getFullYear()} {resumeData.profile.name}. Built with React & Tailwind.</p>
+        <p>© {new Date().getFullYear()} {resumeData.profile.name}</p>
       </footer>
     </div>
   );
