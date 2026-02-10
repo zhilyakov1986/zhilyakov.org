@@ -5,7 +5,7 @@ import profileImage from '../assets/zhilka.png';
 const Hero = ({ profile }) => {
     return (
 
-        <Card className="col-span-full flex items-center relative overflow-hidden bg-gradient-to-br from-slate-800 to-blue-900 !border-none !text-white p-6">
+        <Card className="col-span-full flex items-center relative overflow-hidden bg-gradient-to-br from-blue-500 to-indigo-600 dark:from-slate-800 dark:to-blue-900 !border-none !text-white p-6">
             <div className="relative z-10 flex flex-col md:flex-row items-center md:items-center gap-4 w-full">
                 <div className="shrink-0 flex flex-col items-center">
                     <img
