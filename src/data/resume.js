@@ -5,7 +5,6 @@ export const resumeData = {
     name: "Andrey Zhilyakov",
     title: "Software Development Engineer",
     location: "Jersey City, NJ",
-    phone: "(212) 603-9624",
     email: "zhilyakov1986@gmail.com",
     social: {
       linkedin: "https://www.linkedin.com/in/andrey-zhilyakov/",

@@ -50,12 +50,6 @@ const Hero = ({ profile }) => {
                         <a href={`mailto:${profile.email}`} className="flex items-center gap-1 hover:text-white hover:opacity-100 transition-opacity">
                             ✉️ {profile.email}
                         </a>
-                        <span className="flex items-center gap-1">
-
-                            📞 {profile.phone}
-                        </span>
-
-
                     </div>
 
                     <p className="mt-2 text-sm md:text-base leading-relaxed opacity-90 text-slate-200">
